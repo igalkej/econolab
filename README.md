@@ -11,7 +11,7 @@ Este repositorio contiene el material, guías y trabajos prácticos del curso **
   - Dr. Martín Harracá (Universidad Nacional de San Martín)
   - Dr. Rodrigo Castro (ICC-FCEyN-UBA / CONICET)
 - **Cronograma:** https://docs.google.com/spreadsheets/d/1Wwg-omrNlI-8xxNvqQhJPV0MRV9xxPk07wsrb3EJfeU/edit?gid=0#gid=0
-- **PPT de clases teóricas y bibliografía:** Archivo clases.txt
+- **PPT de clases teóricas y bibliografía:** [Archivo clases.txt](https://github.com/igalkej/econolab/blob/main/clases.txt)
 - **Clases prácticas:** En las carpetas del repositorio
 
 ---
