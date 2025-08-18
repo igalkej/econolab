@@ -35,8 +35,7 @@ El curso busca:
   - Escuela Keynesiana
   - La síntesis neoclásica-keynesiana
 - **Unidad 2**
-  - Modelos de Crecimiento: Drivers de inversión y ahorro
-  - Modelos de Crecimiento 2 + Consignas de examen
+  - Modelos de Crecimiento
   - Modelos de conflicto distributivo
   - Modelos de innovación y transformación productiva
 - **Unidad 3**
