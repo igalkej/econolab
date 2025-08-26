@@ -78,6 +78,13 @@ OMEdit es la interfaz gráfica incluida con OpenModelica para crear y simular mo
   ```bash
   OMEdit
 
+## Uso del parser de Godley-Tables
+- Primero, instalar `python3` y las dependencias que están en el `requirements.txt` (se recomienda utilizar un entorno virtual, como puede ser pyenv).
+- Crear un directorio con nombre files y dentro del mismo tres subdirectorios con nombres modelica, ods, txt y xlsx.
+- Dentro del directorio files/modelica, se guardarán los códigos generados por el parser. 
+- Dentro de los otros tres directorios, se almacenarán los archivos que contengan las tablas a convertir (cada directorio corresponde a una extensión 
+de archivo distinta).
+- Para correr el traductor, ejecutar `python3 main.py`
 
 ## 📖 Bibliografía
 
